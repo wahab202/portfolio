@@ -28,5 +28,5 @@ All of these apps are also available on AppStore and are regularly maintained an
 * Cucumberish UI testing
 * Hyperpay payment SDK
 * Alamofire
-* Apple relay OTP configuration
+* Apple private relay configuration
 * Custom charts and bar graphs
