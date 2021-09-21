@@ -1,7 +1,7 @@
 # Abdul Wahab's Portfolio
-This repository contains demo and some technical information about the apps that I have developed.
+Following are some of the apps that I have developed along with the technologies/features they include
 
-### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md)
+### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md) (developed solely)
 #### Technologies used:
 * CoreAnimation
 * Near Field Communication
@@ -13,7 +13,7 @@ This repository contains demo and some technical information about the apps that
 * Alamofire
 * Testflight
 
-### [Smart Motorway App](https://github.com/wahab202/portfolio/blob/main/SmartMotorway.md)
+### [Smart Motorway App](https://github.com/wahab202/portfolio/blob/main/SmartMotorway.md) (developed solely)
 #### Technologies used:
 * Alfa payment gateway
 * Biometric login and sign up
@@ -21,7 +21,7 @@ This repository contains demo and some technical information about the apps that
 * Managed app versioning and submission
 * Alamofire
 
-### [Educational App](https://github.com/wahab202/portfolio/blob/main/EducationalApp.md)
+### [Educational App](https://github.com/wahab202/portfolio/blob/main/EducationalApp.md) (developed with team)
 #### Technologies used:
 * Firebase
 * Cucumberish UI testing
