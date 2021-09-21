@@ -1,8 +1,8 @@
 # Abdul Wahab's Portfolio
 This repository contains demo and some technical information about the apps that I have developed.
 
-## NFC based business card App (AddMee+)
-# Following technologies were used in this app
+### NFC based business card App (AddMee+)
+#### Following technologies were used in this app
 * CoreAnimation
 * Near Field Communication
 * Universal Linking
@@ -10,7 +10,7 @@ This repository contains demo and some technical information about the apps that
 * In App Purchase
 * Apple login
 * Alamofire
-# Demo can be found [here!](https://github.com/wahab202/portfolio/blob/main/AddMee.md)
+#### Demo can be found [here!](https://github.com/wahab202/portfolio/blob/main/AddMee.md)
 
 ## Educational App
 ![Homescreen](https://github.com/wahab202/portfolio/blob/main/App2_2.gif)
