@@ -1,5 +1,6 @@
 # Abdul Wahab's Portfolio
-Following are some of the apps that I have developed along with the technologies/features they include
+Following are some of the apps that I have developed along with the technologies/features they include.
+All of these apps are also available on AppStore and are regularly maintained and updated by myself.
 
 ### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md) (developed solely)
 #### Technologies used:
