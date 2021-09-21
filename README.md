@@ -2,7 +2,7 @@
 This repository contains demo and some technical information about the apps that I have developed.
 
 ### NFC based business card App (AddMee+)
-#### Following technologies were used in this app
+#### Technologies used:
 * CoreAnimation
 * Near Field Communication
 * Universal Linking
@@ -10,12 +10,23 @@ This repository contains demo and some technical information about the apps that
 * In App Purchase
 * Apple login
 * Alamofire
+* Testflight
 #### Demo can be found [here!](https://github.com/wahab202/portfolio/blob/main/AddMee.md)
 
-## Educational App
-![Homescreen](https://github.com/wahab202/portfolio/blob/main/App2_2.gif)
-![Homescreen](https://github.com/wahab202/portfolio/blob/main/App2_1.gif)
+### Educational App
+#### Technologies used:
+* Firebase
+* Cucumberish UI testing
+* Hyperpay payment SDK
+* Alamofire
+* Apple relay OTP configuration
+* Custom charts and bar graphs
+#### Demo can be found [here!](https://github.com/wahab202/portfolio/blob/main/EducationalApp.md)
 
 ## Smart Motorway App
-![Homescreen](https://github.com/wahab202/portfolio/blob/main/App3_2.PNG)
-![Homescreen](https://github.com/wahab202/portfolio/blob/main/App3_1.PNG)
+#### Technologies used:
+* Alfa payment gateway
+* Biometric login and sign up
+* Uploading images and files
+* Alamofire
+#### Demo can be found [here!](https://github.com/wahab202/portfolio/blob/main/SmartMotorway.md)
