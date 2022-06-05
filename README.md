@@ -1,6 +1,5 @@
 # Abdul Wahab's Portfolio
 Following are some of the apps that I have developed along with the technologies/features they include.
-All of these apps are also available on AppStore and are regularly maintained and updated.
 
 ### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md) (developed solely)
 #### Technologies used:
@@ -30,3 +29,10 @@ All of these apps are also available on AppStore and are regularly maintained an
 * Alamofire
 * Apple private relay configuration
 * Custom charts and bar graphs
+
+### [Salah Tracker](https://github.com/wahab202/portfolio/blob/main/SalahTracker.md) (personal project)
+#### Technologies used:
+* Alamofire
+* Geolocation
+* Custom chart
+* RealmSwift
