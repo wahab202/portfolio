@@ -2,7 +2,7 @@
 Following are some of the apps that I have developed along with the technologies/features they include.
 
 ### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md) (developed solely)
-#### [Sample Code for one of my components](https://github.com/wahab202/portfolio/tree/main/CalendarRangeSelection)
+#### [Sample code for one of my components](https://github.com/wahab202/portfolio/tree/main/CalendarRangeSelection)
 #### Technologies used:
 * CoreAnimation
 * Near Field Communication
