@@ -1,6 +1,24 @@
 # Abdul Wahab's Portfolio
 Following are some of the apps that I have developed along with the technologies/features they include.
 
+### [Currency Converter using RxSwift/RxCocoa/SQLite](https://github.com/wahab202/CurrencyConverter)
+#### MVVM architecture with RxSwift
+#### Technologies used:
+* RxSwift
+* RxCocoa
+* RxDataSources
+* RxTests
+* Unit Testing (XCTest)
+* SQLite
+* Alamofire
+
+### [Movie Details App using RxSwift/RxCocoa](https://github.com/wahab202/Movie-App-in-RxSwift)
+#### Technologies used:
+* RxSwift
+* RxCocoa
+* RxDataSources
+* Alamofire
+
 ### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md) (developed solely)
 #### [Sample code for one of my components](https://github.com/wahab202/portfolio/tree/main/CalendarRangeSelection)
 #### Technologies used:
