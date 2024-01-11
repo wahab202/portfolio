@@ -19,8 +19,8 @@ Following are some of the apps that I have developed along with the technologies
 * RxDataSources
 * Alamofire
 
-### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/AddMee.md) (developed solely)
-#### [Sample code for one of my components](https://github.com/wahab202/portfolio/tree/main/CalendarRangeSelection)
+### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/GIFs/AddMee.md) (developed solely)
+#### [Sample code for one of my components](https://github.com/wahab202/portfolio/tree/main/GIFs/CalendarRangeSelection)
 #### Technologies used:
 * CoreAnimation
 * Near Field Communication
@@ -32,7 +32,7 @@ Following are some of the apps that I have developed along with the technologies
 * Alamofire
 * Testflight
 
-### [Smart Motorway App](https://github.com/wahab202/portfolio/blob/main/SmartMotorway.md) (developed solely)
+### [Smart Motorway App](https://github.com/wahab202/portfolio/blob/main/GIFs/SmartMotorway.md) (developed solely)
 #### Technologies used:
 * Alfa payment gateway
 * Biometric login and sign up
@@ -40,7 +40,7 @@ Following are some of the apps that I have developed along with the technologies
 * Managed app versioning and submission
 * Alamofire
 
-### [Educational App](https://github.com/wahab202/portfolio/blob/main/EducationalApp.md) (developed with team)
+### [Educational App](https://github.com/wahab202/portfolio/blob/main/GIFs/EducationalApp.md) (developed with team)
 #### Technologies used:
 * Firebase
 * Cucumberish UI testing
@@ -49,7 +49,7 @@ Following are some of the apps that I have developed along with the technologies
 * Apple private relay configuration
 * Custom charts and bar graphs
 
-### [Salah Tracker](https://github.com/wahab202/portfolio/blob/main/SalahTracker.md) (personal project)
+### [Salah Tracker](https://github.com/wahab202/portfolio/blob/main/GIFs/SalahTracker.md) (personal project)
 #### Technologies used:
 * Alamofire
 * Geolocation
