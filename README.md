@@ -1,8 +1,7 @@
 # Abdul Wahab's Portfolio
 Following are some of the apps that I have developed along with the technologies/features they include.
 
-### [Currency Converter using RxSwift/RxCocoa/SQLite](https://github.com/wahab202/CurrencyConverter)
-#### Tap on link to see app screenshots and code
+### [Currency Converter using RxSwift/RxCocoa/SQLite ->](https://github.com/wahab202/CurrencyConverter)
 
 #### MVVM architecture with RxSwift
 #### Technologies used:
