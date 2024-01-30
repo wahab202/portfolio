@@ -14,7 +14,6 @@ Following are some of the apps that I have developed along with the technologies
 * Alamofire
 
 ### [Movie Details App using RxSwift/RxCocoa (Click to see code and screenshots)](https://github.com/wahab202/Movie-App-in-RxSwift)
-#### Tap on link to see app screenshots and code
 
 #### Technologies used:
 * RxSwift
@@ -23,7 +22,6 @@ Following are some of the apps that I have developed along with the technologies
 * Alamofire
 
 ### [NFC based business card App (AddMee+) (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/AddMee.md) (developed solely)
-#### Tap on link to see app screenshots
 
 #### Technologies used:
 * CoreAnimation
@@ -37,7 +35,6 @@ Following are some of the apps that I have developed along with the technologies
 * Testflight
 
 ### [Smart Motorway App (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/SmartMotorway.md) (developed solely)
-#### Tap on link to see app screenshots
 
 #### Technologies used:
 * Alfa payment gateway
@@ -47,7 +44,6 @@ Following are some of the apps that I have developed along with the technologies
 * Alamofire
 
 ### [ALW Educational App (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/EducationalApp.md) (developed with team)
-#### Tap on link to see app screenshots
 
 #### Technologies used:
 * Firebase
@@ -58,7 +54,6 @@ Following are some of the apps that I have developed along with the technologies
 * Custom charts and bar graphs
 
 ### [Salah Tracker (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/SalahTracker.md) (personal project)
-#### Tap on link to see app screenshots
 
 #### Technologies used:
 * Alamofire
