@@ -1,7 +1,7 @@
 # Abdul Wahab's Portfolio
 Following are some of the apps that I have developed along with the technologies/features they include.
 
-### [Currency Converter using RxSwift/RxCocoa/SQLite ->](https://github.com/wahab202/CurrencyConverter)
+### [Currency Converter using RxSwift/RxCocoa/SQLite (Click to see code and screenshots)](https://github.com/wahab202/CurrencyConverter)
 
 #### MVVM architecture with RxSwift
 #### Technologies used:
@@ -13,7 +13,7 @@ Following are some of the apps that I have developed along with the technologies
 * SQLite
 * Alamofire
 
-### [Movie Details App using RxSwift/RxCocoa](https://github.com/wahab202/Movie-App-in-RxSwift)
+### [Movie Details App using RxSwift/RxCocoa (Click to see code and screenshots)](https://github.com/wahab202/Movie-App-in-RxSwift)
 #### Tap on link to see app screenshots and code
 
 #### Technologies used:
@@ -22,7 +22,7 @@ Following are some of the apps that I have developed along with the technologies
 * RxDataSources
 * Alamofire
 
-### [NFC based business card App (AddMee+)](https://github.com/wahab202/portfolio/blob/main/GIFs/AddMee.md) (developed solely)
+### [NFC based business card App (AddMee+) (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/AddMee.md) (developed solely)
 #### Tap on link to see app screenshots
 
 #### Technologies used:
@@ -36,7 +36,7 @@ Following are some of the apps that I have developed along with the technologies
 * Alamofire
 * Testflight
 
-### [Smart Motorway App](https://github.com/wahab202/portfolio/blob/main/GIFs/SmartMotorway.md) (developed solely)
+### [Smart Motorway App (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/SmartMotorway.md) (developed solely)
 #### Tap on link to see app screenshots
 
 #### Technologies used:
@@ -46,7 +46,7 @@ Following are some of the apps that I have developed along with the technologies
 * Managed app versioning and submission
 * Alamofire
 
-### [ALW Educational App](https://github.com/wahab202/portfolio/blob/main/GIFs/EducationalApp.md) (developed with team)
+### [ALW Educational App (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/EducationalApp.md) (developed with team)
 #### Tap on link to see app screenshots
 
 #### Technologies used:
@@ -57,7 +57,7 @@ Following are some of the apps that I have developed along with the technologies
 * Apple private relay configuration
 * Custom charts and bar graphs
 
-### [Salah Tracker](https://github.com/wahab202/portfolio/blob/main/GIFs/SalahTracker.md) (personal project)
+### [Salah Tracker (Click to see screenshots)](https://github.com/wahab202/portfolio/blob/main/GIFs/SalahTracker.md) (personal project)
 #### Tap on link to see app screenshots
 
 #### Technologies used:
